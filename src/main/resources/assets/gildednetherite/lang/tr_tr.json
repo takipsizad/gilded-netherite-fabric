@@ -1,0 +1,26 @@
+  
+{
+  "item.gildednetherite.gilded_ingot": "Yaldızlı Netherit külçesi",
+  "item.gildednetherite.diamond_scrap": "Elmas hurda",
+  "item.gildednetherite.gilded_phantom_membrane": "Gilded Phantom Membrane",
+
+  "item.gildednetherite.gilded_helmet": "Gilded Netherite Helmet",
+  "item.gildednetherite.gilded_chestplate": "Gilded Netherite Chestplate",
+  "item.gildednetherite.gilded_leggings": "Gilded Netherite Leggings",
+  "item.gildednetherite.gilded_boots": "Gilded Netherite Boots",
+  "item.gildednetherite.gilded_sword": "Gilded Netherite Sword",
+  "item.gildednetherite.gilded_shield": "Gilded Shield",
+  "item.gildednetherite.gilded_elytra": "Gilded Elytra",
+
+  "item.gildednetherite.gilded_pickaxe": "Gilded Netherite Pickaxe",
+  "item.gildednetherite.gilded_axe": "Gilded Netherite Axe",
+  "item.gildednetherite.gilded_shovel": "Gilded Netherite Shovel",
+  "item.gildednetherite.gilded_hoe": "Gilded Netherite Hoe",
+
+  "advancements.gilded_armor.title": "Rich Business",
+  "advancements.gilded_armor.description": "Get a full suit of Gilded Netherite armor",
+  "advancements.gilded_hoe.title": "Bad Life Decisions",
+  "advancements.gilded_hoe.description": "Just... why?",
+  "advancements.gilded_elytra.title": "Fly With Style",
+  "advancements.gilded_elytra.description": "Obtain a Gilded Elytra"
+}
